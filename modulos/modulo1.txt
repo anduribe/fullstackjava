@@ -1,0 +1,6 @@
+Agregar los archivos modificados y/o creados al repositorio
+- Aplicar los cambios realizados usando el mensaje “Se agrega el módulo 1”
+- Despliegue el historial de cambios
+- Crear en el mismo directorio un archivo de nombre modulo2.txt, con el siguiente
+contenido:
+Construir consultas a una

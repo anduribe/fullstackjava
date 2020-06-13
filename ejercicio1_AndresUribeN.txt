@@ -1,0 +1,76 @@
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava
+$ git init
+Initialized empty Git repository in C:/Users/ANDRES/Downloads/unidad 3/06 GIT/fullstackjava/.git/
+
+ESTADO DEL REPOSITORIO
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ejercicio1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava
+$ git init
+Initialized empty Git repository in C:/Users/ANDRES/Downloads/unidad 3/06 GIT/fullstackjava/.git/
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ejercicio1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        contenidos.txt
+        ejercicio1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   contenidos.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git log
+commit e4d72aaf2130e3a10c13d5edaf14079d6c9d3d0f (HEAD -> master)
+Author: anduribe <anduribe@gmail.com>
+Date:   Sat Jun 13 15:02:04 2020 -0400
+
+    Versión actualizada del contenido
+
+commit f8c93f092e1c731ec0922dafc1aea883de7c971d
+Author: anduribe <anduribe@gmail.com>
+Date:   Sat Jun 13 14:59:25 2020 -0400
+
+    Primera versión del temario subida a repositorio
