@@ -10,4 +10,11 @@ Date:   Sat Jun 13 15:53:13 2020 -0400
     Agregada la información del módulo 4
 
 
+    commit 809ca7562ff5c156354591b376afd167634775cd (HEAD -> awakers)
+Author: anduribe <anduribe@gmail.com>
+Date:   Sat Jun 13 16:17:11 2020 -0400
+
+    Agregado el listado de super-awakers
+
+
     
