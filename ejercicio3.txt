@@ -1,2 +1,13 @@
 Crear en el directorio contenidos/ un archivo de nombre modulo4.txt, con el siguiente
 texto:
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git log
+commit 184945195fc20a7da1b53c8238263c3b4fce21d9 (HEAD -> master)
+Author: anduribe <anduribe@gmail.com>
+Date:   Sat Jun 13 15:53:13 2020 -0400
+
+    Agregada la información del módulo 4
+
+
+    
