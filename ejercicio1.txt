@@ -1,0 +1,18 @@
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava
+$ git init
+Initialized empty Git repository in C:/Users/ANDRES/Downloads/unidad 3/06 GIT/fullstackjava/.git/
+
+ESTADO DEL REPOSITORIO
+
+ANDRES@LAPTOP-K267TVE7 MINGW64 ~/Downloads/unidad 3/06 GIT/fullstackjava (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        ejercicio1.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+
